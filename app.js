@@ -1,3 +1,4 @@
+//服务器入口
 const Koa = require('koa');
 const bodyParser = require('koa-bodyparser');
 const controller = require('./controller');
